@@ -1,0 +1,11 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore installed packages
+# If using pip
+*.egg-info/
+*.egg
+*.pyc
+
+# If using poetry
+.poetry/

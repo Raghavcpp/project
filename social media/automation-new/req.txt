@@ -1,0 +1,9 @@
+selenium
+pyautogui
+pandas
+openpyxl
+requests
+pyperclip
+undetected_chromedriver
+selenium_stealth
+gdown
